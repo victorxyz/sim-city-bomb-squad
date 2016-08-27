@@ -1,0 +1,48 @@
+#unexploded {
+  background-image: url("img/simcity.jpg");
+}
+
+#topDiv {
+  background-color: black;
+  height:400px;
+  width: 230px;
+  margin: auto;
+  margin-top: 8%;
+}
+
+.wiresInLine {
+  display: inline-block;
+}
+
+
+#timerDiv {
+  background-color: white;
+  height:30px;
+  max-width: 300px;
+  margin: auto;
+
+}
+
+#wireDiv {
+}
+
+
+#blueWireDiv {
+
+}
+
+#greenWireDiv {
+
+}
+
+#redWireDiv {
+
+}
+
+#whiteWireDiv {
+
+}
+
+#yellowWireDiv {
+
+}
